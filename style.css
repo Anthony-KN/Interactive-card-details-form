@@ -15,7 +15,7 @@ body {
   margin: auto;
 }
 .main__container__background-one {
-  background-image: url("images/bg-main-mobile.png");
+  background-image: url("../images/bg-main-mobile.png");
   background-repeat: no-repeat;
   height: 240px;
   position: relative;
