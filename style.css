@@ -15,7 +15,7 @@ body {
   margin: auto;
 }
 .main__container__background-one {
-  background-image: url("/images/bg-main-mobile.png");
+  background-image: url("./images/bg-main-mobile.png");
   background-repeat: no-repeat;
   height: 240px;
   position: relative;
@@ -29,7 +29,7 @@ body {
     display: flex;
   }
   .main__container__background-one {
-    background-image: url("/images/bg-main-desktop.png");
+    background-image: url("./images/bg-main-desktop.png");
     width: 900px;
     height: 900px;
   }
@@ -40,7 +40,7 @@ body {
   height: 160px;
   color: hsl(0deg, 0%, 100%);
   padding: 20px;
-  background-image: url("/images/bg-card-front.png");
+  background-image: url("./images/bg-card-front.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
@@ -95,7 +95,7 @@ body {
   height: 160px;
   color: hsl(0deg, 0%, 100%);
   padding: 20px;
-  background-image: url("/images/bg-card-back.png");
+  background-image: url("./images/bg-card-back.png");
   background-size: contain;
   background-repeat: no-repeat;
   position: absolute;
